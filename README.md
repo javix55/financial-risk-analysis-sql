@@ -130,6 +130,19 @@ Using the analytical dataset and views created in this project, several real-wor
 
 These questions illustrate how the SQL pipeline can support financial monitoring, credit risk management and operational decision-making.
 
+## Dashboard Preview
+
+The following visuals illustrate the main business insights generated from the SQL analysis.
+
+### KPI Overview
+![KPI Overview](dashboard/financial_overview.png)
+
+### Aging Analysis
+![Aging Analysis](dashboard/aging_analysis.png)
+
+### Revenue Trend
+![Revenue Trend](dashboard/revenue_trend.png)
+
 ## Technologies Used
 
 - SQL (SQLite)
