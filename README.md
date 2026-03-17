@@ -136,7 +136,8 @@ These questions illustrate how the SQL pipeline can support financial monitoring
 - DB Browser for SQLite
 - Cursor (SQL development)
 - Git & GitHub
-- Power BI / Tableau (optional BI visualization layer)
+- Google Sheets + Google Loocker Studio
+- Power BI / Tableau
 
 ## How to Run the Project
 
